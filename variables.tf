@@ -25,3 +25,11 @@ variable "aws_vpc_rt" {
 
 variable "aws_vpc_igw" {
 }
+
+#===========================================
+#               EC2 Variables
+#===========================================
+
+variable "ami" {}          
+variable "instance_type" {}
+variable "key_name" {}     
