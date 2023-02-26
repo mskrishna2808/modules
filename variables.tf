@@ -32,4 +32,4 @@ variable "aws_vpc_igw" {
 
 variable "ami" {}          
 variable "instance_type" {}
-variable "key_name" {}     
+variable "keypair_name" {}     
